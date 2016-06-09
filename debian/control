@@ -1,0 +1,17 @@
+Source: theme-typewriter
+Section: themes
+Priority: extra
+Maintainer: Matt Jenkins <matt@majenko.co.uk>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.4
+
+Package: theme-typewriter
+Section: themes
+Architecture: all
+XBSC-Group: Clean
+Description: Typewriter Theme
+ Clean typewriter theme. Courier monospaced font throughout. Gentle on
+ the eyes.
+
+
+
